@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Frozen",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan11.jpg",
+        "synopsis": "Frozen es una película de animación que sigue la historia de dos hermanas, Elsa y Anna, en un reino congelado. Elsa, la mayor, tiene poderes mágicos de hielo que involuntariamente sumen al reino en un invierno eterno. Anna, junto con Kristoff, Sven y Olaf, se embarca en una aventura para encontrar a Elsa y deshacer el hechizo.",
+        "category": [
+            "Animación",
+            "Aventura",
+            "Comedia"
+        ],
+        "characters": [
+            {
+                "name": "Idina Menzel",
+                "cast": "Elsa",
+                "img": "https://ruta/de/la/imagen/idina_menzel.jpg"
+            },
+            {
+                "name": "Kristen Bell",
+                "cast": "Anna",
+                "img": "https://ruta/de/la/imagen/kristen_bell.jpg"
+            },
+            {
+                "name": "Jonathan Groff",
+                "cast": "Kristoff",
+                "img": "https://ruta/de/la/imagen/jonathan_groff.jpg"
+            },
+            {
+                "name": "Josh Gad",
+                "cast": "Olaf",
+                "img": "https://ruta/de/la/imagen/josh_gad.jpg"
+            }
+        ],
+        "tags": [
+            "newPlaylist"
+        ]
+    },
+    {
+        
+        "name": "John Wick",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan10.jpg",
+        "synopsis": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "category": [
+            "Accion",
+            "Crime",
+            "Thriller"
+        ],
+
+        "characters": [
+            {
+                "name": "Marko Zaror ",
+                "cast": "Chidi",
+                "img": "https://i24.servimg.com/u/f24/20/54/38/84/mv5bng10.jpg"
+            },
+            {
+                "name": "Bill Skarsgard",
+                "cast": "Marquis",
+                "img": "https://i24.servimg.com/u/f24/20/54/38/84/mv5bng11.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "cast": "John Wick",
+                "img": "https://i24.servimg.com/u/f24/20/54/38/84/mv5bng12.jpg"
+            },
+            {
+                "name": "Hiroyuki Sanada",
+                "cast": "Shimazu",
+                "img": "https://i24.servimg.com/u/f24/20/54/38/84/mv5bng13.jpg"
+            },
+            {
+                "name": "Brahim Chad",
+                "cast": "Thug 1",
+                "img": "https://i24.servimg.com/u/f24/20/54/38/84/mv5bng14.jpg"
+            }
+        ],
+        "tags":[
+            "newPlaylist"
+        ]
+    },
+    {
+        "name": "Moana",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan12.jpg",
+        "synopsis": "Moana es una película de animación que sigue la historia de una valiente navegante llamada Moana. Ella se embarca en un viaje audaz para salvar su isla y descubrir su verdadera identidad, enfrentándose a criaturas marinas místicas y desafíos épicos en el océano.",
+        "category": [
+            "Animación",
+            "Aventura",
+            "Fantasía"
+        ],
+        "characters": [
+            {
+                "name": "Auli'i Cravalho",
+                "cast": "Moana",
+                "img": "https://ruta/de/la/imagen/auli'i_cravalho.jpg"
+            },
+            {
+                "name": "Dwayne Johnson",
+                "cast": "Maui",
+                "img": "https://ruta/de/la/imagen/dwayne_johnson.jpg"
+            }
+        ],
+        "tags": [
+            "newPlaylist"
+        ]
+    },
+    {
+        "name": "Scooby Doo",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan16.jpg",
+        "synopsis": "Scooby Doo es una película de comedia y misterio que sigue a Scooby-Doo y la pandilla Mystery Inc. mientras investigan fenómenos paranormales. Juntos, enfrentan a monstruos y resuelven misterios hilarantes.",
+        "category": [
+            "Comedia",
+            "Misterio",
+            "Aventura"
+        ],
+        "characters": [
+            {
+                "name": "Scooby-Doo",
+                "cast": "Él mismo",
+                "img": "https://ruta/de/la/imagen/scooby_doo_character.jpg"
+            },
+            {
+                "name": "Shaggy Rogers",
+                "cast": "Matthew Lillard",
+                "img": "https://ruta/de/la/imagen/matthew_lillard.jpg"
+            },
+            {
+                "name": "Fred Jones",
+                "cast": "Freddie Prinze Jr.",
+                "img": "https://ruta/de/la/imagen/freddie_prinze_jr.jpg"
+            }
+        ],
+        "tags": [
+            "commingSoon"
+        ]
+    },
+    {
+        "name": "Big Hero",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan17.jpg",
+        "synopsis": "Big Hero 6 es una película de animación y aventuras que sigue la historia de Hiro Hamada y su robot inflable Baymax. Juntos, forman un equipo de héroes para detener una amenaza en la ciudad de San Fransokyo.",
+        "category": [
+            "Animación",
+            "Aventura",
+            "Acción"
+        ],
+        "characters": [
+            {
+                "name": "Hiro Hamada",
+                "cast": "Ryan Potter",
+                "img": "https://ruta/de/la/imagen/ryan_potter.jpg"
+            },
+            {
+                "name": "Baymax",
+                "cast": "Scott Adsit",
+                "img": "https://ruta/de/la/imagen/scott_adsit.jpg"
+            }
+        ],
+        "tags": [
+            "commingSoon"
+        ]
+    },
+    {
+        "name": "Spider-Man: No Way Home",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan18.jpg",
+        "synopsis": "Spider-Man: No Way Home sigue la historia de Peter Parker mientras busca ayuda para deshacer un hechizo que ha revelado su identidad secreta. En su búsqueda, se encuentra con versiones de Spider-Man de realidades alternativas y enfrenta desafíos que amenazan la existencia misma.",
+        "category": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "characters": [
+            {
+                "name": "Tom Holland",
+                "cast": "Peter Parker / Spider-Man",
+                "img": "https://ruta/de/la/imagen/tom_holland.jpg"
+            },
+            {
+                "name": "Tobey Maguire",
+                "cast": "Spider-Man (versión alternativa)",
+                "img": "https://ruta/de/la/imagen/tobey_maguire.jpg"
+            },
+            {
+                "name": "Andrew Garfield",
+                "cast": "Spider-Man (versión alternativa)",
+                "img": "https://ruta/de/la/imagen/andrew_garfield.jpg"
+            }
+        ],
+        "tags": [
+        "commingSoon"
+            ]
+     }
+    ,
+    {
+        "name": "Aves de Presa",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan19.jpg",
+        "synopsis": "Aves de Presa es una película de acción y superhéroes centrada en Harley Quinn. Después de romper con el Joker, Harley se une a un grupo de mujeres poderosas para enfrentarse a un sádico criminal y salvar a una joven.",
+        "category": [
+            "Acción",
+            "Aventura",
+            "Crimen"
+        ],
+        "characters": [
+            {
+                "name": "Harley Quinn",
+                "cast": "Margot Robbie",
+                "img": "https://ruta/de/la/imagen/margot_robbie.jpg"
+            },
+            {
+                "name": "Huntress",
+                "cast": "Mary Elizabeth Winstead",
+                "img": "https://ruta/de/la/imagen/mary_elizabeth_winstead.jpg"
+            },
+            {
+                "name": "Black Canary",
+                "cast": "Jurnee Smollett-Bell",
+                "img": "https://ruta/de/la/imagen/jurnee_smollett_bell.jpg"
+            }
+        ],
+        "tags": [
+            "topMovie"
+        ]
+    },
+    {
+        "name": "Pantera Negra",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/4/rectan14.jpg",
+        "synopsis": "Pantera Negra es una película de superhéroes que sigue la historia de T'Challa, el rey de Wakanda, quien asume el papel de la Pantera Negra. Wakanda, un país africano avanzado tecnológicamente, se ve amenazado por enemigos que buscan robar su tecnología única.",
+        "category": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "characters": [
+            {
+                "name": "T'Challa",
+                "cast": "Chadwick Boseman",
+                "img": "https://ruta/de/la/imagen/chadwick_boseman.jpg"
+            },
+            {
+                "name": "Shuri",
+                "cast": "Letitia Wright",
+                "img": "https://ruta/de/la/imagen/letitia_wright.jpg"
+            },
+            {
+                "name": "Killmonger",
+                "cast": "Michael B. Jordan",
+                "img": "https://ruta/de/la/imagen/michael_b_jordan.jpg"
+            }
+        ],
+        "tags": [
+            "topMovie"
+        ]
+    },
+    {
+        "name": "Ant-Man",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/rectan13.jpg",
+        "synopsis": "Ant-Man es una película de superhéroes que sigue a Scott Lang, un ladrón redimido que recibe un traje que le permite encogerse a tamaño de hormiga y aumentar su fuerza. Junto con su mentor, Hank Pym, deben planear y ejecutar un robo para salvar el mundo.",
+        "category": [
+            "Acción",
+            "Aventura",
+            "Comedia"
+        ],
+        "characters": [
+            {
+                "name": "Scott Lang",
+                "cast": "Paul Rudd",
+                "img": "https://ruta/de/la/imagen/paul_rudd.jpg"
+            },
+            {
+                "name": "Hank Pym",
+                "cast": "Michael Douglas",
+                "img": "https://ruta/de/la/imagen/michael_douglas.jpg"
+            },
+            {
+                "name": "Hope van Dyne",
+                "cast": "Evangeline Lilly",
+                "img": "https://ruta/de/la/imagen/evangeline_lilly.jpg"
+            }
+        ],
+        "tags": [
+            "topMovie"
+        ]
+    },
+    {
+        "name": "Shazam",
+        "imgPoster": "https://i24.servimg.com/u/f24/20/54/38/84/mv5bng10.jpg",
+        "synopsis": "Shazam es una película de superhéroes que sigue a Billy Batson, un niño que puede transformarse en un superhéroe adulto con habilidades mágicas al decir la palabra 'Shazam'. Billy y sus amigos deben enfrentarse a un malvado villano para salvar el mundo.",
+        "category": [
+            "Acción",
+            "Aventura",
+            "Comedia"
+        ],
+        "characters": [
+            {
+                "name": "Billy Batson",
+                "cast": "Asher Angel",
+                "img": "https://ruta/de/la/imagen/asher_angel.jpg"
+            },
+            {
+                "name": "Shazam",
+                "cast": "Zachary Levi",
+                "img": "https://ruta/de/la/imagen/zachary_levi.jpg"
+            }
+        ],
+        "tags": [
+         "topMovie"
+        ]
+    }
+    
+
+    
+    
+    
+    
+    
+    
+    
+]

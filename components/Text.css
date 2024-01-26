@@ -1,0 +1,30 @@
+.text{
+    width: 67px;
+    height: 20px;
+    top: 417.77px;
+    font-family: 'Istok Web', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6A536A;
+    margin-bottom: 20px;
+    
+}
+.containerMovies{
+    justify-content: flex-start; 
+    
+    width: 375px;
+    
+}
+.containerImages{
+    display: flex;
+}
+.poster{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 76px;
+    height: 101px;
+    border-radius: 17px;
+}

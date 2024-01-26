@@ -1,0 +1,18 @@
+.button {
+    width: 309px;
+    height: 46px;
+    top: 781px;
+    left: 41px;
+    border-radius: 16px;
+    border: 1px solid #6A536A;
+    background-color: #6A536A;
+    color: #ffffff; 
+    display: inline-block;
+    text-align: center;
+    line-height: 46px; 
+    text-decoration: none; 
+    margin-bottom: 20px;
+}
+.buttonContainer{
+    margin-top: 0px;
+}
